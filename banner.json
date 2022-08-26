@@ -1,15 +1,19 @@
 {
     "items": [{
-            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/akasa1.jpg",
-            "alt": "Bonus New Member 100%"
+            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/ratuliga1.jpg",
+            "alt": "Bonus New Member 25%"
         },
         {
-            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/akasa3.jpg",
-            "alt": "Bonus Deposit"
+            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/ratuliga2.jpg",
+            "alt": "Bonus Deposit Harian 5000"
         },
         {
-            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/akasa4.jpg",
-            "alt": "Bonus Rollingan Setiap Hari"
+            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/ratuliga3.jpg",
+            "alt": "Bonus Turn Over Harian Terbesar"
+        },      
+        {
+            "url": "https://raw.githubusercontent.com/bannerku/ratuliga/main/ratuliga4.jpg",
+            "alt": "Download Aplikasi Ratuliga"
         
         }
     ]
